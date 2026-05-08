@@ -1,0 +1,9 @@
+Pool Wizard Spellbook
+Copyright (c) 2026 TheMysticTurtle. All rights reserved.
+
+This software and its compiled output are proprietary and confidential.
+Unauthorized copying, reverse engineering, redistribution, or commercial
+use of this software, in whole or in part, is strictly prohibited.
+
+The pool chemistry calculations, dosing logic, and educational content
+contained herein represent original professional work and trade knowledge.

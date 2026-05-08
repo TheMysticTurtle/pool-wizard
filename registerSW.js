@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/pool-wizard/sw.js', { scope: '/pool-wizard/' })})}

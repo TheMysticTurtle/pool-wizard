@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="theme-color" content="#0d1f2d" />
+    <meta name="description" content="Pool chemistry calculator and reference guide. Get exact chemical doses for your pool in seconds." />
+
+    <!-- ── iOS home-screen app settings ───────────────────────────────
+         These tell Safari to launch the app full-screen (no address bar)
+         when opened from the home screen icon.                          -->
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Pool Wizard" />
+
+    <!-- iOS home screen icon — Safari uses this, not the manifest icons.
+         Create a 180×180 PNG and save it to public/icons/apple-touch-icon.png
+         See LAUNCH-GUIDE.md for how to generate icons for free.          -->
+    <link rel="apple-touch-icon" href="/pool-wizard/icons/apple-touch-icon.png" />
+
+    <title>Pool Wizard Spellbook</title>
+
+    <!-- ── Google AdSense script ──────────────────────────────────────
+         INSTRUCTIONS:
+           1. Sign up at adsense.google.com and add your site URL.
+           2. Google will review your site (takes ~2 weeks).
+           3. Once approved, uncomment the <script> tag below and
+              replace XXXXXXXXXXXXXXXXX with your real publisher ID.
+           4. Also update ADSENSE_PUB_ID and ADSENSE_SLOT_ID in
+              src/components/AdBanner.jsx.
+           5. Commit and push — ads go live automatically.
+
+         Until you do this, the ad slots show blank on the live site.
+         That's fine — blank is better than an error.                    -->
+
+    <!--
+    <script
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXXX"
+      crossorigin="anonymous"
+    ></script>
+    -->
+
+    <script type="module" crossorigin src="/pool-wizard/assets/index-J-XL9gPi.js"></script>
+    <link rel="stylesheet" crossorigin href="/pool-wizard/assets/index-CObLXmIO.css">
+  <link rel="manifest" href="/pool-wizard/manifest.webmanifest"><script id="vite-plugin-pwa:register-sw" src="/pool-wizard/registerSW.js"></script></head>
+  <body>
+    <!-- React mounts here -->
+    <div id="root"></div>
+
+    <!-- Vite injects the bundled JS/CSS automatically.
+         The PWA service worker registration is also injected here by vite-plugin-pwa. -->
+  </body>
+</html>

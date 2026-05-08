@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "releaseDate": "2026-05-08",
+  "notes": [
+    "Initial release",
+    "Full pool chemistry calculator with educational content",
+    "8 reference chapters covering all major pool chemistry topics",
+    "Historical reading tracker with chart view",
+    "Works fully offline"
+  ]
+}
