@@ -1382,10 +1382,10 @@ Get circulation going. Pull a water sample after 30 minutes of run time and test
 
 | **What you see** | **Cal Hypo dose per 10,000 gal** |
 |---|---|
-| Clear water, walls slightly slick | ~5 lb |
-| Green tinge on surfaces, water mostly clear | ~5 lb |
-| Water visibly green, drain visible | ~10 lb |
-| Pea soup — drain not visible | ~15 lb |
+| Clear water, walls slightly slick | ~1.5 lb |
+| Green tinge on surfaces, water mostly clear | ~2 lb |
+| Water visibly green, drain visible | ~3 lb |
+| Pea soup — drain not visible | ~5 lb |
 
 Pre-dissolve cal hypo in a bucket of water. Brush every surface before and after adding shock. The water should shift from green to lime-green within 10–15 minutes. **If it doesn't, add more — don't nickel-and-dime an algae treatment.**
 
